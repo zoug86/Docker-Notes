@@ -2,7 +2,7 @@
 
 App live at: http://159.89.37.140/
 
-Valid APIs: http://159.89.37.140:3001/api
+Valid APIs: http://159.89.37.140:3001/api ----
             http://159.89.37.140:3001/api/movies
 
 This is a basic fullstack app that uses docker for development/production deployment. 
